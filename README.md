@@ -9,7 +9,7 @@ This application runs on python 3.9.13
 
 And uses the following libraries:
 
-pan
+pandas
 
 pathlib
 sklearn
@@ -28,6 +28,7 @@ Next install pandas, scikit-learn & hvplot by writing the following in the termi
 pip install pandas
 pip install -U scikit-learn
 conda install -c pyviz hvplot
+```
 ---
 
 ## Usage
